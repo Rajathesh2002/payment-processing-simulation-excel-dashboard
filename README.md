@@ -41,7 +41,9 @@ This project mimics a typical payment operations workflow in a bank or fintech s
 ![Dashboard Overview](dashboard-overview.png)
 
 ### 📋 EOD Checklist Sheet
-![EOD Checklist](EOD Checklist Sheet.png)
+### 📋 EOD Checklist Sheet
+![EOD Checklist](EOD%20Checklist%20Sheet.png)
+
 
 ### ⚠️ Validation Log Sheet
 ![Validation Log](validation-log.png)
