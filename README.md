@@ -39,6 +39,8 @@ This project mimics a typical payment operations workflow in a bank or fintech s
 
 ### 🧾 Dashboard Overview
 ![Dashboard](Dashboard.png)
+Here’s a snapshot of the final Payment Processing Dashboard created in Excel:
+
 
 
 ### 📋 EOD Checklist Sheet
